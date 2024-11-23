@@ -1,0 +1,23 @@
+Pregunta: ¿Qué es un LLM?
+Respuesta: Un modelo de lenguaje entrenado con grandes volúmenes de texto para comprender y generar lenguaje.
+
+Pregunta: ¿Para qué se utilizan los LLM?
+Respuesta: Para tareas como generación de texto, traducción automática y comprensión del lenguaje.
+
+Pregunta: ¿Cómo se entrenan los LLM?
+Respuesta: Con datos textuales masivos y redes neuronales avanzadas como transformadores.
+
+Pregunta: ¿Qué es la capacidad de generalización de un LLM?
+Respuesta: Habilidad de aplicar conocimientos aprendidos para responder preguntas nuevas.
+
+Pregunta: ¿Cuál es la principal limitación de los LLM?
+Respuesta: Sus respuestas pueden estar sesgadas debido a los datos de entrenamiento.
+
+Pregunta: ¿Qué es la inferencia en LLM?
+Respuesta: El proceso de generar texto en función de la entrada proporcionada.
+
+Pregunta: ¿Qué ventajas tienen los LLM sobre los modelos tradicionales?
+Respuesta: Mayor flexibilidad y precisión en tareas complejas de lenguaje natural.
+
+Pregunta: ¿Qué significa ajustar un LLM?
+Respuesta: Adaptar el modelo preentrenado a tareas específicas mediante ajuste fino.
