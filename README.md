@@ -15,7 +15,7 @@ Este proyecto consiste en un **Chatbot personalizado** que responde a preguntas 
 ## Configurar Variables de Entorno
 
 Crea un archivo .env en el directorio raíz del proyecto y añade tu clave de API de OpenAI:
-OPENAI_API_KEY=tu_clave_de_api_aqui
+`OPENAI_API_KEY=tu_clave_de_api_aqui`
 
 ## Ejecutar la Aplicación de Streamlit
 
